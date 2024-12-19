@@ -1,0 +1,36 @@
+.grid {
+    display: grid;
+}
+
+.grid-flow-col {
+    grid-auto-flow: column;
+}
+
+.grid-col-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.gap-16 {
+    gap: 16px;
+}
+
+.gap-32 {
+    gap: 32px;
+}
+
+.text-2xl {
+    font-size: xx-large;
+}
+
+.text-xl {
+    font-size: x-large;
+}
+
+.text-l {
+    font-size:large;
+}
+
+.text-sm {
+    font-size: medium;
+}
